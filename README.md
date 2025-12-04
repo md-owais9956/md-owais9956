@@ -46,8 +46,7 @@
 ### 🔗 Connect With Me
 
 <div align="center">
-  <a href="https://www.instagram.com/ll___owais___ll/?__pwa=1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30"/>
+ 
   </a>
   <a href="mailto:md.owais111234@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30"/>
