@@ -61,5 +61,5 @@
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="30"/>
   </a>
 </div>
-)
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=md-owais9956&theme=dracula&leetcode=md_owais_&align=center
+
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=md-owais9956&theme=dracula&leetcode=md_owais_&align=center)
