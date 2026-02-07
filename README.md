@@ -2,7 +2,7 @@
 
 ---
 
-![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=md-owais9956&theme=dracula&leetcode=md_owais_&align=center
+
 
 
 <div align="center">
@@ -62,3 +62,4 @@
   </a>
 </div>
 )
+![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=md-owais9956&theme=dracula&leetcode=md_owais_&align=center
