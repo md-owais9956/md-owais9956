@@ -76,7 +76,7 @@ doodO0c.  .......................... .,cl:.        .'x0OOOOOkkkkk
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="30" alt="VS Code"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java"/>
 </div>
-
+---
 </td>
 </tr>
 </table>
