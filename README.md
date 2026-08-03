@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! I'm Mohammad Owais, a 2nd year B.Tech student</h2>
+<h2 align="center">Hi ! I'm Mohammad Owais, a Pre Final year B.Tech student</h2>
 
 ```text
 O0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK0OOkxddOXXXXXXXXXXXXXXXXXXXX
