@@ -1,4 +1,4 @@
-<h2 align="center">Hi ! I'm Nawab Mohammad Owais, a Pre Final year B.Tech student</h2>
+<h2 align="center">Hi ! I'm Nawab Mohammad Owais, Pre Final year B.Tech student based in India</h2>
 
 
 
