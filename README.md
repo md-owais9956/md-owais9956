@@ -1,43 +1,5 @@
 <h2 align="center">Hi ! I'm Nawab Mohammad Owais, a Pre Final year B.Tech student</h2>
 
-```text
-O0XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXK0OOkxddOXXXXXXXXXXXXXXXXXXXX
-xkkOKXXXXXXXXXXXXXXXXXXXXXNNNNNNNNNNNXXK0OkkKXXXXXXXXXXXXXXXXXXXX
-kkxxxxxkOKXNNNNNXXKKXXXNXNNNXXNNNNNXXXXXXXXXXXXXXXXXXXXXXXXXXXXNN
-ddoodxxddxxO00XNNKKXNNNNNNNNNNNNNNNXKKXXXXXXXXXXXXXXXXXXXXXXXNNNN
-::c::lddoddxddxO00KXNXNNNNNNXK0000klcoxkk0XNXXXXXXXXXXXXXXXXXXNNN
-,;,,,;:::cloodkkkkkkOO0NXKOdl:::;;,.';:cokKXXXXXNNXXXXXXNNNNNNNNN
-,,''',,,;;::clddloddxdoxxc;'..........'':okO0XNXNNNNNNNNNNNNNNNNX
-.....',,,,,,;;:;,;:clc;,,...     .......,lc:lkKNNNNNNNNNNNNNNNNNN
-.......''''',,;,',;,'....  ..............,',oOXNNNNNNNNNNNNNNNNNN
-...  ........'''',,.......,:,'cool;'.......;oOXNNNNNNNNNNNNNNNNNN
-................'''.  ...,cc;:dxxxdl;......;dO0XNNNNNNNNNNNNNNNNN
-........... .. ......  'oo,'..,ldddl:,......,oOKKKXXXNNNNNNNNNNNN
-l;'........  .......',.:xd:,..,coo;...'......;ok00000KXNNNNNNNNNN
-Od;'''.....   ......;dldkxdolcdk0kc''''','...':ldxOOxkOKKO0KXXXXN
-k:......'.....  ....,dddkkkxxxxkOkdllccc:. .;c;,:cllllokkxkOOOO0K
-o,.........',,,'''...,cxkxxdxdoooloddxxdc;';dx:',;;;;::ccloox00OO
-l,'..........',,;loc;..oxxdoooooollodddol:',;'..'.''',;,;;:;:lddk
-llc;,,,;;,..''',ckko;..lddxkkdooolccodl:,...'........',,,'''',;::
-dddollcllc;,''':xO0kc';dxoooooooooool:............'.........'',,,
-dddddddddolc:;;lOXXkc,ckkxdl:;;:ccll:...................''''.',,,
-dxxxxxxxxxxxxxkKWWXo:oxkkkxolccllloo;;:,'',,..........''..''''.''
-kkkkkxdoloookXMMMWXxoxxkkkxolooooddl:x0c':dxdlc:,'...'''''.......
-OOkdc:,.,coONWMMMWXdokkkxxdoodddddookNWk:lxkkkkkxdlc;;,,'........
-Oxc'....,coxkOOkkXNOxOOOkxddddddxkOXWWWN0xxkkkkkkkOkxl:c::,'.....
-d;......'cc::;,. 'lOKOkOOOOOOOd:,;:ok0KWW0oodxkkkkkkd;,,;;;;,,'..
-'....  .,:cccc;. . .;dkOO00KKx,     ...:ooccclloxkkd:'''''''',;c;
-.....  .,::cc:. ......lKKKX0o'.........,::cccc,'cddl;;;,''''',c:'
-....   .,::c:.........'okOx;..........':coddl;...':llcc:;,''':c,'
-..     .,;::..........................,clxOo;'....;ddddolc::cl;''
-..      .;:'........................ .;:lxxl'. ....lkkkxxddoolc:;
-c'.   ...,'......................... .,;lxo;. .....;dOkkkkxxxdddl
-KOd::dc............................. .,:do,.      ..:kOOOkkkkkxxx
-doodO0c.  .......................... .,cl:.        .'x0OOOOOkkkkk
-
-```
----
-
 
 
 ![samdev-pulse](https://samdev-pulse.vercel.app/api/profile?username=md-owais9956&theme=dracula&leetcode=md_owais_&align=center)
