@@ -196,9 +196,12 @@ A software developer by chance, a philosopher by curiosity, and a debugger by fo
   <a href="https://x.com/MohammadOw64104" target="_blank">
     <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-   <a href="https://techwithowais.co.in/" target="_blank">
-  <img src="https://img.shields.io/badge/Tech%20With%20Owais-Blog-6C63FF?style=for-the-badge&logo=blogger&logoColor=white" alt="Tech With Owais Blog" />
-</a>
+  <a href="https://techwithowais.co.in/" target="_blank">
+    <img src="https://img.shields.io/badge/Tech%20With%20Owais-Blog-6C63FF?style=for-the-badge&logo=blogger&logoColor=white" alt="Tech With Owais Blog" />
+  </a>
+  <a href="https://leetcode.com/u/md_owais_/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
+  </a>
 </p>
 
 ---
