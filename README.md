@@ -184,6 +184,14 @@ A software developer by chance, a philosopher by curiosity, and a debugger by fo
 
 
 
+### Profile Views
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=md-owais9956&label=PROFILE%20VIEWS&color=e05d44&style=flat" alt="Profile Views" />
+</p>
+
+---
 ## Connect With Me
 
 <p align="left">
