@@ -133,7 +133,7 @@ A software developer by chance, a philosopher by curiosity, and a debugger by fo
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
 </p>
 
-### DevOps, Cloud and Systems
+### DevOps, Cloud, Tools and Systems
 
 <p>
   <img src="https://img.shields.io/badge/DevOps-326CE5?style=for-the-badge" />
@@ -142,8 +142,12 @@ A software developer by chance, a philosopher by curiosity, and a debugger by fo
   <img src="https://img.shields.io/badge/Cloud_Computing-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
   <img src="https://img.shields.io/badge/MATLAB-0076A8?style=for-the-badge&logo=mathworks&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify" />
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
+  <img src="https://img.shields.io/badge/WSL-0078D4?style=for-the-badge&logo=linux&logoColor=white" alt="Windows Subsystem for Linux" />
 </p>
 
 ### Software Engineering and Methodologies
