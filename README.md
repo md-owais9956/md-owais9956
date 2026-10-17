@@ -33,12 +33,12 @@ A software developer by chance, a philosopher by curiosity, and a debugger by fo
   <tr>
     <td align="center" width="50%">
       <a href="https://github.com/md-owais9956">
-        <img src="https://img.shields.io/badge/Redis-From%20Scratch-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis From Scratch" />
+        <img src="https://img.shields.io/badge/VADERIS-Redis%20Inspired-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="VADERIS" />
       </a>
-      <h3>Redis From Scratch</h3>
+      <h3>Vaderis</h3>
       <p>A Redis-inspired in-memory key-value database project exploring TCP networking, command processing, and database internals.</p>
       <p><b>Technologies:</b> C++, TCP Sockets, Networking</p>
-      <a href="https://github.com/md-owais9956/Redis">GitHub Repositorie</a>
+      <a href="https://github.com/md-owais9956/Vaderis">GitHub Repositorie</a>
     </td>
     <td align="center" width="50%">
       <a href="https://techwithowais.co.in/">
