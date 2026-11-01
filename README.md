@@ -1,4 +1,4 @@
-# Hi ! I'm Nawab Mohammad Owais, Pre Final year B.Tech student based in India
+# Hi ! I'm Mohammad Owais, Pre Final year B.Tech student based in India
 
 
 <div align="center">
